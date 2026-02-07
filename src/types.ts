@@ -14,6 +14,7 @@ export enum Platform {
 export enum GameEngine {
   Unity = "Unity",
   Unreal = "Unreal",
+  Godot = "Godot",
 }
 
 export enum MediaType {
