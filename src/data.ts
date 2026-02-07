@@ -16,7 +16,7 @@ export const PersonalInfo: AboutMeData = {
 
 export const games: Game[] = [
   {
-    name: "GAME_NAME",
+    name: "BED TIME RUSH",
     description: "Developed as part of a Game Design module with two designers as part of my CS degree. BedTimeRush is a short game where a child must reach a light switch to dispel monsters seen in shadowy objects. The player draws a path and chooses the timing for movement, blending strategy with tension.",
     genres: ["Casual", "Strategy"],
     platforms: [Platform.Android],
