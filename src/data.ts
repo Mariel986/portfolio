@@ -46,7 +46,9 @@ export const games: Game[] = [
     genres: ["Serious Game"],
     platforms: [Platform.Windows],
     engine: GameEngine.Unity,
-    links: [],
+    links: [
+      { source: LinkImageSource.Github, url: "https://github.com/medical-tr-AI-ning/vr-runtime" },
+    ],
     media: [
       { source: "/images/games/medical_tr.AI.ning/01.png", type: MediaType.Image },
       { source: "/images/games/medical_tr.AI.ning/02.png", type: MediaType.Image },
